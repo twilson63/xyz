@@ -1,0 +1,8 @@
+{
+  "name": "xyz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/twilson63/xyz.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT"
+}
